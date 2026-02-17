@@ -37,6 +37,6 @@ Futuras melhorias poderão incluir:
 - Melhorias na responsividade
 - Refatoração e modularização do código
 
-## 👨‍💻 Autor
+Autor
 Pedro  
 Estudante de Análise e Desenvolvimento de Sistemas
